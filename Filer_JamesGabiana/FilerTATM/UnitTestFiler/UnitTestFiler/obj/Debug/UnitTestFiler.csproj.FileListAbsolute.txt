@@ -1,0 +1,14 @@
+C:\Users\JamesG\Documents\Visual Studio 2015\Projects\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\bin\Debug\UnitTestFiler.dll
+C:\Users\JamesG\Documents\Visual Studio 2015\Projects\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\bin\Debug\UnitTestFiler.pdb
+C:\Users\JamesG\Documents\Visual Studio 2015\Projects\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\bin\Debug\FilerTATM.exe
+C:\Users\JamesG\Documents\Visual Studio 2015\Projects\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\bin\Debug\FilerTATM.pdb
+C:\Users\JamesG\Documents\Visual Studio 2015\Projects\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\obj\Debug\UnitTestFiler.csprojResolveAssemblyReference.cache
+C:\Users\JamesG\Documents\Visual Studio 2015\Projects\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\obj\Debug\UnitTestFiler.dll
+C:\Users\JamesG\Documents\Visual Studio 2015\Projects\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\obj\Debug\UnitTestFiler.pdb
+H:\C#\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\bin\Debug\UnitTestFiler.dll
+H:\C#\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\bin\Debug\UnitTestFiler.pdb
+H:\C#\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\bin\Debug\FilerTATM.exe
+H:\C#\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\bin\Debug\FilerTATM.pdb
+H:\C#\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\obj\Debug\UnitTestFiler.csprojResolveAssemblyReference.cache
+H:\C#\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\obj\Debug\UnitTestFiler.dll
+H:\C#\Filer_JamesGabiana\FilerTATM\UnitTestFiler\UnitTestFiler\obj\Debug\UnitTestFiler.pdb
